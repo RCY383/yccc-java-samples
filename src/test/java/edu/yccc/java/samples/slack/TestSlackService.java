@@ -22,9 +22,9 @@ public class TestSlackService
 	private static List<String> randomMessage = new ArrayList<String>();
 	static
 	{
-		randomMessage.add("Integration is fun!");
-		randomMessage.add("Who's idea was this anyway?");
-		randomMessage.add("Ok, enough is enough!");
+		randomMessage.add("Computer Science can be well rewarding!");
+		randomMessage.add("Who can rise up to the challenge?");
+		randomMessage.add("Progamming is much more than just writing code!");
 	}
 	
 	private String getRandomMessage()
