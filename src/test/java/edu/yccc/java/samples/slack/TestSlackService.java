@@ -36,7 +36,7 @@ public class TestSlackService
 	@Test
 	public void testSendMessage()
 	{
-		slackService.sendMessage("#integration", "Webhook sample", getRandomMessage());
+		slackService.sendMessage("#richard", "RCY383", getRandomMessage());
 	}
 
 }
