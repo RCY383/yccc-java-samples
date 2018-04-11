@@ -40,3 +40,4 @@ public class TestSlackService
 	}
 
 }
+  //With Client builder, integrate with Slack.
